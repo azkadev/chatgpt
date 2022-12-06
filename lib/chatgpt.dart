@@ -3,6 +3,7 @@ library chatgpt;
 int calculate() {
   return 6 * 7;
 }
+ 
 
 class ChatbotAccount {
   late String email;
@@ -21,5 +22,13 @@ class Chatbot {
 
   resetChat() {
 
+  }
+
+  getChatText(){
+
+  }
+
+  getChatResponse(){
+    
   }
 }
